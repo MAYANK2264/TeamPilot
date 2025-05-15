@@ -40,7 +40,8 @@ npm run dev
     </code></pre>
     <p class="text-sm text-gray-500 mb-6">✅ Make sure to create a <code>.env</code> file with your Firebase config if not hardcoded.</p>
 
-    <h2 class="text-2xl font-semibold mb-2">🌐 Live Demo</h2>
+    <h2 class="text-2xl font-semibold mb-2">🌐 team-pilot-zeta.vercel.app
+</h2>
     <p class="mb-6">
       ➡️ <a href="https://your-vercel-link.vercel.app" class="text-blue-600 hover:underline" target="_blank">Visit TeamPilot Live</a>
     </p>
